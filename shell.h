@@ -13,9 +13,9 @@
 #include <signal.h> /* for signal management */
 #include <fcntl.h> /* for open files*/
 
-/************* MACROS **************/
+/************* MiCROS **************/
 
-#include "macros.h" /* for msg help and prompt */
+#include "micros.h" /* for msg help and prompt */
 
 /************* STRUCTURES **************/
 
