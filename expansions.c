@@ -92,6 +92,7 @@ void expand_alias(data_of_program *data)
  * buffer_add - append string
  * @buffer: buffer
  * @str_to_add: string to be copied
+ * Return: len
  */
 int buffer_add(char *buffer, char *str_to_add)
 {
